@@ -6,6 +6,6 @@ if C == "A":
     for i in range(1, N + 1):
         print(i, end = " ")
 
-elif C == "D":
+else:
     for d in range(N, 0, -1):
         print(d, end = " ")
